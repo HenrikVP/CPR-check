@@ -1,0 +1,2 @@
+﻿using SwitchConst;
+new Cpr();
